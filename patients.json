@@ -1,0 +1,13 @@
+[
+    {
+        "name": "mugalanzi",
+        "age": 25,
+        "gender": "male",
+        "diagnosis": "fever",
+        "contact": "0792236709",
+        "date": "2026-09-06",
+        "district": "mbale",
+        "religion": "muslim",
+        "status": "single"
+    }
+]
